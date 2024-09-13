@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 <?php
 function check_ptb2($a, $b, $c)
